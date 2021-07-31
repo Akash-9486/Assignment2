@@ -1,0 +1,21 @@
+.para{
+color: black;
+font-style:normal;
+}
+h1{
+    color:black;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-image:url('img2.jpg');
+    background-size: cover;
+}
+img{
+    border-color: beige;
+}
+.pa{
+    font-style: italic;
+    color:white;
+}
